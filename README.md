@@ -1,6 +1,8 @@
 # viromescan
 ViromeScan allows the user to explore and taxonomically characterize the virome from metagenomic reads, efficiently denoising samples from reads of other microorganisms.
 
+Please see also the [SourceForge web page](https://sourceforge.net/projects/viromescan)
+
 ## README
 SPACE REQUIREMENTS : ViromeScan requires about 45 GB of free space to work on your device
 
