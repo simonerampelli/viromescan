@@ -3,6 +3,8 @@ ViromeScan allows the user to explore and taxonomically characterize the virome 
 
 Please see [SourceForge web page](https://sourceforge.net/projects/viromescan) for downloading ViromeScan.
 
+Please refer to [this publication](https://doi.org/10.1186/s12864-016-2446-3) for further information.
+
 ## README
 SPACE REQUIREMENTS : ViromeScan requires about 45 GB of free space to work on your device
 
