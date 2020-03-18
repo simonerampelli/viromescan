@@ -1,0 +1,665 @@
+Paramyxoviridae;Rubulavirus;Achimota virus 1- NC_025403.1
+Paramyxoviridae;Rubulavirus;Achimota virus 2- NC_025404.1
+Parvoviridae;Dependoparvovirus;Adeno-associated dependoparvovirus A- NC_001401.2
+Parvoviridae;Dependoparvovirus;Adeno-associated dependoparvovirus A- NC_001729.1
+Parvoviridae;Dependoparvovirus;Adeno-associated dependoparvovirus B- NC_006152.1
+Reoviridae;Rotavirus;Rotavirus H- NC_007557.1
+Reoviridae;Rotavirus;Rotavirus H- NC_007549.1
+Reoviridae;Rotavirus;Rotavirus H- NC_007548.1
+Reoviridae;Rotavirus;Rotavirus H- NC_007555.1
+Reoviridae;Rotavirus;Rotavirus H- NC_007554.1
+Reoviridae;Rotavirus;Rotavirus H- NC_007553.1
+Reoviridae;Rotavirus;Rotavirus H- NC_007552.1
+Reoviridae;Rotavirus;Rotavirus H- NC_007556.1
+Reoviridae;Rotavirus;Rotavirus H- NC_007550.1
+Reoviridae;Rotavirus;Rotavirus H- NC_007551.1
+Reoviridae;Rotavirus;Rotavirus H- NC_007558.1
+Flaviviridae;Flavivirus;Aedes flavivirus- NC_012932.1
+Bunyaviridae;Phlebovirus;Aguacate virus- NC_015451.1
+Bunyaviridae;Phlebovirus;Aguacate virus- NC_015450.1
+Bunyaviridae;Phlebovirus;Aguacate virus- NC_015452.1
+Bunyaviridae;Orthobunyavirus;Shuni virus- NC_018460.1
+Bunyaviridae;Orthobunyavirus;Shuni virus- NC_018459.1
+Bunyaviridae;Orthobunyavirus;Shuni virus- NC_018465.1
+Bunyaviridae;Orthobunyavirus;Akabane virus- NC_009894.1
+Bunyaviridae;Orthobunyavirus;Akabane virus- NC_009895.1
+Bunyaviridae;Orthobunyavirus;Akabane virus- NC_009896.1
+Flaviviridae;Flavivirus;Kyasanur forest disease virus- NC_004355.1
+Arenaviridae;Mammarenavirus;Allpahuayo mammarenavirus- NC_010253.1
+Arenaviridae;Mammarenavirus;Allpahuayo mammarenavirus- NC_010249.1
+Arenaviridae;Mammarenavirus;Amapari mammarenavirus- NC_010247.1
+Arenaviridae;Mammarenavirus;Amapari mammarenavirus- NC_010251.1
+Bunyaviridae;Hantavirus;Andes virus- NC_003466.1
+Bunyaviridae;Hantavirus;Andes virus- NC_003467.2
+Bunyaviridae;Hantavirus;Andes virus- NC_003468.2
+Flaviviridae;Flavivirus;Apoi virus- NC_003676.1
+Rhabdoviridae;Lyssavirus;Aravan virus- NC_020808.1
+Flaviviridae;Flavivirus;Aroa virus- NC_009026.2
+Bunyaviridae;Phlebovirus;Arumowot virus- NC_023634.1
+Bunyaviridae;Phlebovirus;Arumowot virus- NC_023633.1
+Bunyaviridae;Phlebovirus;Arumowot virus- NC_023635.1
+Paramyxoviridae;Aquaparamyxovirus;Atlantic salmon paramyxovirus- NC_025360.1
+Rhabdoviridae;Lyssavirus;Australian bat lyssavirus- NC_003243.1
+Bornaviridae;Other;Avian bornavirus- NC_024296.1
+Paramyxoviridae;Metapneumovirus;Avian metapneumovirus- NC_007652.1
+Paramyxoviridae;Avulavirus;Avian paramyxovirus 11- NC_025407.1
+Paramyxoviridae;Avulavirus;Avian paramyxovirus 12- NC_025363.1
+Paramyxoviridae;Avulavirus;Avian paramyxovirus 3- NC_025373.1
+Paramyxoviridae;Avulavirus;Avian paramyxovirus 4- NC_019531.1
+Paramyxoviridae;Avulavirus;Avian paramyxovirus 5- NC_025361.1
+Paramyxoviridae;Avulavirus;Avian paramyxovirus 6- NC_003043.1
+Paramyxoviridae;Avulavirus;Avian paramyxovirus 7- NC_025347.1
+Paramyxoviridae;Avulavirus;Avian paramyxovirus 8- NC_025374.1
+Paramyxoviridae;Avulavirus;Avian paramyxovirus 9- NC_025390.1
+Paramyxoviridae;Avulavirus;Avian paramyxovirus penguin/Falkland Islands/324/2007- NC_025349.1
+Polyomaviridae;Polyomavirus;BK polyomavirus- NC_001538.1
+Flaviviridae;Flavivirus;Bagaza virus- NC_012534.1
+Reoviridae;Seadornavirus;Banna virus- NC_004221.1
+Reoviridae;Seadornavirus;Banna virus- NC_004218.1
+Reoviridae;Seadornavirus;Banna virus- NC_004198.1
+Reoviridae;Seadornavirus;Banna virus- NC_004200.1
+Reoviridae;Seadornavirus;Banna virus- NC_004201.1
+Reoviridae;Seadornavirus;Banna virus- NC_004217.1
+Reoviridae;Seadornavirus;Banna virus- NC_004219.1
+Reoviridae;Seadornavirus;Banna virus- NC_004204.1
+Reoviridae;Seadornavirus;Banna virus- NC_004203.1
+Reoviridae;Seadornavirus;Banna virus- NC_004211.1
+Reoviridae;Seadornavirus;Banna virus- NC_004220.1
+Reoviridae;Seadornavirus;Banna virus- NC_004202.1
+Hepeviridae;Other;Bat hepevirus- NC_018382.1
+Caliciviridae;Sapovirus;Bat sapovirus TLC58/HK- NC_017936.1
+Arenaviridae;Mammarenavirus;Bear Canyon mammarenavirus- NC_010256.1
+Arenaviridae;Mammarenavirus;Bear Canyon mammarenavirus- NC_010255.1
+Paramyxoviridae;Other;Beilong virus- NC_007803.1
+Bunyaviridae;Phlebovirus;Bhanja virus- NC_027140.1
+Bunyaviridae;Phlebovirus;Bhanja virus- NC_027141.1
+Bunyaviridae;Phlebovirus;Bhanja virus- NC_027142.1
+Rhabdoviridae;Lyssavirus;Bokeloh bat lyssavirus- NC_025251.1
+Bornaviridae;Bornavirus;Borna disease virus- NC_001607.1
+Flaviviridae;Hepacivirus;Bovine hepacivirus- NC_026797.1
+Paramyxoviridae;Respirovirus;Bovine parainfluenza virus 3- NC_002161.1
+Paramyxoviridae;Pneumovirus;Bovine respiratory syncytial virus- NC_001989.1
+Bunyaviridae;Orthobunyavirus;Brazoran virus- NC_022037.1
+Bunyaviridae;Orthobunyavirus;Brazoran virus- NC_022039.1
+Bunyaviridae;Orthobunyavirus;Brazoran virus- NC_022038.1
+Filoviridae;Ebolavirus;Bundibugyo virus- NC_014373.1
+Bunyaviridae;Orthobunyavirus;Bunyamwera virus- NC_001925.1
+Bunyaviridae;Orthobunyavirus;Bunyamwera virus- NC_001926.1
+Bunyaviridae;Orthobunyavirus;Bunyamwera virus- NC_001927.1
+Arenaviridae;Reptarenavirus;Alethinophid 2 reptarenavirus- NC_018481.1
+Arenaviridae;Reptarenavirus;Alethinophid 2 reptarenavirus- NC_018484.1
+Bunyaviridae;Phlebovirus;Candiru virus- NC_015375.1
+Bunyaviridae;Phlebovirus;Candiru virus- NC_015374.1
+Bunyaviridae;Phlebovirus;Candiru virus- NC_015373.1
+Paramyxoviridae;Morbillivirus;Canine distemper virus- NC_001921.1
+Paramyxoviridae;Pneumovirus;Canine pneumovirus- NC_025344.1
+Bunyaviridae;Orthobunyavirus;Manzanilla virus- NC_024074.1
+Bunyaviridae;Orthobunyavirus;Manzanilla virus- NC_024076.1
+Bunyaviridae;Orthobunyavirus;Manzanilla virus- NC_024075.1
+Paramyxoviridae;Henipavirus;Cedar virus- NC_025351.1
+Flaviviridae;Flavivirus;Cell fusing agent virus- NC_001564.1
+Rhabdoviridae;Vesiculovirus;Chandipura virus- NC_020805.1
+Flaviviridae;Flavivirus;Chaoyang virus- NC_017086.1
+Arenaviridae;Mammarenavirus;Chapare mammarenavirus- NC_010563.1
+Arenaviridae;Mammarenavirus;Chapare mammarenavirus- NC_010562.1
+Togaviridae;Alphavirus;Chikungunya virus- NC_004162.2
+Papillomaviridae;Betapapillomavirus;Colobus monkey papillomavirus- NC_015692.1
+Reoviridae;Coltivirus;Colorado tick fever virus- NC_004183.1
+Reoviridae;Coltivirus;Colorado tick fever virus- NC_004181.1
+Reoviridae;Coltivirus;Colorado tick fever virus- NC_004189.1
+Reoviridae;Coltivirus;Colorado tick fever virus- NC_004191.1
+Reoviridae;Coltivirus;Colorado tick fever virus- NC_004190.1
+Reoviridae;Coltivirus;Colorado tick fever virus- NC_004182.1
+Reoviridae;Coltivirus;Colorado tick fever virus- NC_004180.1
+Reoviridae;Coltivirus;Colorado tick fever virus- NC_004184.1
+Reoviridae;Coltivirus;Colorado tick fever virus- NC_004185.1
+Reoviridae;Coltivirus;Colorado tick fever virus- NC_004186.1
+Reoviridae;Coltivirus;Colorado tick fever virus- NC_004187.1
+Reoviridae;Coltivirus;Colorado tick fever virus- NC_004188.1
+Bunyaviridae;Nairovirus;Crimean-Congo hemorrhagic fever virus- NC_005302.1
+Bunyaviridae;Nairovirus;Crimean-Congo hemorrhagic fever virus- NC_005300.2
+Bunyaviridae;Nairovirus;Crimean-Congo hemorrhagic fever virus- NC_005301.3
+Flaviviridae;Flavivirus;Culex flavivirus- NC_008604.2
+Arenaviridae;Mammarenavirus;Cupixi mammarenavirus- NC_010252.1
+Arenaviridae;Mammarenavirus;Cupixi mammarenavirus- NC_010254.1
+Herpesviridae;Other;Cutthroat trout virus- NC_015521.1
+Flaviviridae;Flavivirus;Dengue virus- NC_001477.1
+Flaviviridae;Flavivirus;Dengue virus- NC_001474.2
+Flaviviridae;Flavivirus;Dengue virus- NC_001475.2
+Flaviviridae;Flavivirus;Dengue virus- NC_002640.1
+Bunyaviridae;Hantavirus;Dobrava-Belgrade virus- NC_005233.1
+Bunyaviridae;Hantavirus;Dobrava-Belgrade virus- NC_005234.1
+Bunyaviridae;Hantavirus;Dobrava-Belgrade virus- NC_005235.1
+Paramyxoviridae;Morbillivirus;Cetacean morbillivirus- NC_005283.1
+Flaviviridae;Flavivirus;Donggang virus- NC_016997.1
+Bunyaviridae;Nairovirus;Dugbe virus- NC_004159.1
+Bunyaviridae;Nairovirus;Dugbe virus- NC_004157.1
+Bunyaviridae;Nairovirus;Dugbe virus- NC_004158.1
+Rhabdoviridae;Lyssavirus;Duvenhage virus- NC_020810.1
+Flaviviridae;Flavivirus;Entebbe bat virus- NC_008718.1
+Picornaviridae;Enterovirus;Enterovirus A- NC_001612.1
+Picornaviridae;Enterovirus;Enterovirus B- NC_001472.1
+Picornaviridae;Enterovirus;Enterovirus C- NC_002058.3
+Picornaviridae;Enterovirus;Enterovirus D- NC_001430.1
+Rhabdoviridae;Lyssavirus;European bat lyssavirus 1- NC_009527.1
+Rhabdoviridae;Lyssavirus;European bat lyssavirus 2- NC_009528.2
+Reoviridae;Coltivirus;Eyach virus- NC_003698.1
+Reoviridae;Coltivirus;Eyach virus- NC_003699.1
+Reoviridae;Coltivirus;Eyach virus- NC_003700.1
+Reoviridae;Coltivirus;Eyach virus- NC_003701.1
+Reoviridae;Coltivirus;Eyach virus- NC_003702.1
+Reoviridae;Coltivirus;Eyach virus- NC_003703.1
+Reoviridae;Coltivirus;Eyach virus- NC_003704.1
+Reoviridae;Coltivirus;Eyach virus- NC_003697.1
+Reoviridae;Coltivirus;Eyach virus- NC_003705.1
+Reoviridae;Coltivirus;Eyach virus- NC_003696.1
+Reoviridae;Coltivirus;Eyach virus- NC_003706.1
+Reoviridae;Coltivirus;Eyach virus- NC_003707.1
+Paramyxoviridae;Morbillivirus;Feline morbillivirus- NC_025264.1
+Paramyxoviridae;Ferlavirus;Fer-de-Lance paramyxovirus- NC_005084.2
+Arenaviridae;Mammarenavirus;Flexal mammarenavirus- NC_010759.1
+Arenaviridae;Mammarenavirus;Flexal mammarenavirus- NC_010757.1
+Flaviviridae;Pegivirus;GB virus C- NC_001710.1
+Arenaviridae;Other;Gairo virus- NC_026246.1
+Arenaviridae;Other;Gairo virus- NC_026247.1
+NA- NC_026818.1
+Arenaviridae;Reptarenavirus;Alethinophid 1 reptarenavirus- NC_018483.1
+Arenaviridae;Reptarenavirus;Alethinophid 1 reptarenavirus- NC_018482.1
+Paramyxoviridae;Avulavirus;Goose paramyxovirus SF02- NC_005036.1
+Reoviridae;Orbivirus;Great Island virus- NC_014529.1
+Reoviridae;Orbivirus;Great Island virus- NC_014530.1
+Reoviridae;Orbivirus;Great Island virus- NC_014528.1
+Reoviridae;Orbivirus;Great Island virus- NC_014527.1
+Reoviridae;Orbivirus;Great Island virus- NC_014525.1
+Reoviridae;Orbivirus;Great Island virus- NC_014523.1
+Reoviridae;Orbivirus;Great Island virus- NC_014531.1
+Reoviridae;Orbivirus;Great Island virus- NC_014524.1
+Reoviridae;Orbivirus;Great Island virus- NC_014522.1
+Reoviridae;Orbivirus;Great Island virus- NC_014526.1
+Arenaviridae;Mammarenavirus;Guanarito mammarenavirus- NC_005082.1
+Arenaviridae;Mammarenavirus;Guanarito mammarenavirus- NC_005077.1
+Bunyaviridae;Hantavirus;Hantaan virus- NC_005218.1
+Bunyaviridae;Hantavirus;Hantaan virus- NC_005219.1
+Bunyaviridae;Hantavirus;Hantaan virus- NC_005222.1
+Bunyaviridae;Hantavirus;Hantavirus Z10- NC_006435.1
+Bunyaviridae;Hantavirus;Hantavirus Z10- NC_006437.1
+Bunyaviridae;Hantavirus;Hantavirus Z10- NC_006433.1
+Bunyaviridae;Phlebovirus;Heartland virus- NC_024496.1
+Bunyaviridae;Phlebovirus;Heartland virus- NC_024495.1
+Bunyaviridae;Phlebovirus;Heartland virus- NC_024494.1
+Paramyxoviridae;Henipavirus;Hendra virus- NC_001906.3
+Hepadnaviridae;Orthohepadnavirus;Hepatitis B virus- NC_003977.1
+Flaviviridae;Hepacivirus;Hepatitis C virus- NC_004102.1
+Flaviviridae;Hepacivirus;Hepatitis C virus- NC_009823.1
+Flaviviridae;Hepacivirus;Hepatitis C virus- NC_009824.1
+Flaviviridae;Hepacivirus;Hepatitis C virus- NC_009825.1
+Flaviviridae;Hepacivirus;Hepatitis C virus- NC_009826.1
+Flaviviridae;Hepacivirus;Hepatitis C virus- NC_009827.1
+Hepeviridae;Hepevirus;Hepatitis E virus- NC_001434.1
+NA- NC_001653.2
+Retroviridae;Deltaretrovirus;Primate T-lymphotropic virus 1- NC_001436.1
+Retroviridae;Deltaretrovirus;Primate T-lymphotropic virus 2- NC_001488.1
+Adenoviridae;Mastadenovirus;Human mastadenovirus D- NC_012959.1
+Parvoviridae;Bocaparvovirus;Human bocavirus- NC_007455.1
+Parvoviridae;Bocaparvovirus;Primate bocaparvovirus 1- NC_012564.1
+Coronaviridae;Alphacoronavirus;Human coronavirus 229E- NC_002645.1
+Coronaviridae;Betacoronavirus;Human coronavirus HKU1- NC_006577.2
+Coronaviridae;Alphacoronavirus;Human coronavirus NL63- NC_005831.2
+Coronaviridae;Betacoronavirus;Betacoronavirus 1- NC_005147.1
+Retroviridae;Other;Human endogenous retrovirus K- NC_022518.1
+Coronaviridae;Other;Human enteric coronavirus strain 4408- NC_012950.1
+NA- NC_026817.1
+Herpesviridae;Simplexvirus;Human herpesvirus 1- NC_001806.2
+Herpesviridae;Simplexvirus;Human herpesvirus 2- NC_001798.2
+Herpesviridae;Varicellovirus;Human herpesvirus 3- NC_001348.1
+Herpesviridae;Lymphocryptovirus;Human herpesvirus 4- NC_007605.1
+Herpesviridae;Lymphocryptovirus;Human herpesvirus 4- NC_009334.1
+Herpesviridae;Cytomegalovirus;Human herpesvirus 5- NC_006273.2
+Herpesviridae;Roseolovirus;Human herpesvirus 7- NC_001716.2
+Herpesviridae;Rhadinovirus;Human herpesvirus 8- NC_009333.1
+Retroviridae;Lentivirus;Human immunodeficiency virus 1- NC_001802.1
+Retroviridae;Lentivirus;Human immunodeficiency virus 2- NC_001722.1
+Adenoviridae;Mastadenovirus;Human mastadenovirus A- NC_001460.1
+Adenoviridae;Mastadenovirus;Human mastadenovirus B- NC_011202.1
+Adenoviridae;Mastadenovirus;Human mastadenovirus B- NC_011203.1
+Adenoviridae;Mastadenovirus;Human mastadenovirus C- NC_001405.1
+Adenoviridae;Mastadenovirus;Human mastadenovirus D- NC_010956.1
+Paramyxoviridae;Metapneumovirus;Human metapneumovirus- NC_004148.2
+Papillomaviridae;Other;Human papillomavirus type 136- NC_017994.1
+Papillomaviridae;Other;Human papillomavirus type 140- NC_017996.1
+Papillomaviridae;Other;Human papillomavirus type 154- NC_021483.1
+Papillomaviridae;Gammapapillomavirus;Human papillomavirus type 178- NC_023891.1
+Papillomaviridae;Other;Human papillomavirus type 179- NC_022095.1
+Papillomaviridae;Betapapillomavirus;Betapapillomavirus 3- NC_001591.1
+Papillomaviridae;Betapapillomavirus;Betapapillomavirus 1- NC_001531.1
+Papillomaviridae;Betapapillomavirus;Betapapillomavirus 2- NC_001596.1
+Papillomaviridae;Betapapillomavirus;Betapapillomavirus 4- NC_004500.1
+Papillomaviridae;Betapapillomavirus;Betapapillomavirus 5- NC_005134.2
+Paramyxoviridae;Respirovirus;Human parainfluenza virus 1- NC_003461.1
+Paramyxoviridae;Rubulavirus;Human parainfluenza virus 2- NC_003443.1
+Paramyxoviridae;Respirovirus;Human parainfluenza virus 3- NC_001796.2
+Paramyxoviridae;Rubulavirus;Human parainfluenza virus 4- NC_021928.1
+Parvoviridae;Erythroparvovirus;Primate erythroparvovirus 1- NC_000883.2
+Picobirnaviridae;Picobirnavirus;Human picobirnavirus- NC_007027.1
+Picobirnaviridae;Picobirnavirus;Human picobirnavirus- NC_007026.1
+Paramyxoviridae;Pneumovirus;Human respiratory syncytial virus- NC_001781.1
+Picornaviridae;Enterovirus;Rhinovirus B- NC_001490.1
+Reoviridae;Rotavirus;Rotavirus B- NC_021543.1
+Reoviridae;Rotavirus;Rotavirus B- NC_021542.1
+Reoviridae;Rotavirus;Rotavirus B- NC_021544.1
+Reoviridae;Rotavirus;Rotavirus B- NC_021546.1
+Reoviridae;Rotavirus;Rotavirus B- NC_021549.1
+Reoviridae;Rotavirus;Rotavirus B- NC_021550.1
+Reoviridae;Rotavirus;Rotavirus B- NC_021548.1
+Reoviridae;Rotavirus;Rotavirus B- NC_021547.1
+Reoviridae;Rotavirus;Rotavirus B- NC_021541.1
+Reoviridae;Rotavirus;Rotavirus B- NC_021545.1
+Reoviridae;Rotavirus;Rotavirus B- NC_021551.1
+NA- NC_026252.1
+Rhabdoviridae;Lyssavirus;Ikoma lyssavirus- NC_018629.1
+Flaviviridae;Flavivirus;Ilheus virus- NC_009028.2
+Orthomyxoviridae;Influenza A virus (A/California/07/2009(H1N1)) segment 6- NC_026434.1
+Orthomyxoviridae;Influenza A virus (A/California/07/2009(H1N1)) segment 7- NC_026431.1
+Orthomyxoviridae;Influenza A virus (A/California/07/2009(H1N1)) segment 8- NC_026432.1
+Orthomyxoviridae;Influenza A virus (A/California/07/2009(H1N1)) segment 5- NC_026436.1
+Orthomyxoviridae;Influenza A virus (A/California/07/2009(H1N1)) segment 4- NC_026433.1
+Orthomyxoviridae;Influenza A virus (A/California/07/2009(H1N1)) segment 2- NC_026435.1
+Orthomyxoviridae;Influenza A virus (A/California/07/2009(H1N1)) segment 1- NC_026438.1
+Orthomyxoviridae;Influenza A virus (A/California/07/2009(H1N1)) segment 3- NC_026437.1
+Orthomyxoviridae;Influenza A virus pa gene for polymerase PA- NC_004912.1
+Orthomyxoviridae;Influenza A virus ha gene for Hemagglutinin- NC_004908.1
+Orthomyxoviridae;Influenza A virus na gene for neuraminidase- NC_004909.1
+Orthomyxoviridae;Influenza A virus pb1 gene for polymerase Pb1- NC_004911.1
+Orthomyxoviridae;Influenza A virus segment 5- NC_004905.2
+Orthomyxoviridae;Influenza A virus segment 7- NC_004907.1
+Orthomyxoviridae;Influenza A virus segment 8- NC_004906.1
+Orthomyxoviridae;Influenza A virus pb2 gene for polymerase Pb2- NC_004910.1
+Orthomyxoviridae;Influenzavirus A;Influenza A virus- NC_007377.1
+Orthomyxoviridae;Influenzavirus A;Influenza A virus- NC_007382.1
+Orthomyxoviridae;Influenzavirus A;Influenza A virus- NC_007381.1
+Orthomyxoviridae;Influenzavirus A;Influenza A virus- NC_007374.1
+Orthomyxoviridae;Influenzavirus A;Influenza A virus- NC_007376.1
+Orthomyxoviridae;Influenzavirus A;Influenza A virus- NC_007375.1
+Orthomyxoviridae;Influenzavirus A;Influenza A virus- NC_007378.1
+Orthomyxoviridae;Influenzavirus A;Influenza A virus- NC_007380.1
+Orthomyxoviridae;Influenza A virus (A/New York/392/2004(H3N2)) segment 8- NC_007370.1
+Orthomyxoviridae;Influenza A virus (A/New York/392/2004(H3N2)) segment 7- NC_007367.1
+Orthomyxoviridae;Influenza A virus (A/New York/392/2004(H3N2)) segment 3- NC_007371.1
+Orthomyxoviridae;Influenza A virus (A/New York/392/2004(H3N2)) segment 4- NC_007366.1
+Orthomyxoviridae;Influenza A virus (A/New York/392/2004(H3N2)) segment 6- NC_007368.1
+Orthomyxoviridae;Influenza A virus (A/New York/392/2004(H3N2)) segment 5- NC_007369.1
+Orthomyxoviridae;Influenza A virus (A/New York/392/2004(H3N2)) segment 2- NC_007372.1
+Orthomyxoviridae;Influenza A virus (A/New York/392/2004(H3N2)) segment 1- NC_007373.1
+Orthomyxoviridae;Influenza A virus (A/Puerto Rico/8/1934(H1N1)) segment 3- NC_002022.1
+Orthomyxoviridae;Influenza A virus (A/Puerto Rico/8/1934(H1N1)) segment 8- NC_002020.1
+Orthomyxoviridae;Influenza A virus (A/Puerto Rico/8/1934(H1N1)) segment 4- NC_002017.1
+Orthomyxoviridae;Influenza A virus (A/Puerto Rico/8/1934(H1N1)) segment 7- NC_002016.1
+Orthomyxoviridae;Influenza A virus (A/Puerto Rico/8/1934(H1N1)) segment 6- NC_002018.1
+Orthomyxoviridae;Influenza A virus (A/Puerto Rico/8/1934(H1N1)) segment 5- NC_002019.1
+Orthomyxoviridae;Influenza A virus (A/Puerto Rico/8/1934(H1N1)) segment 2- NC_002021.1
+Orthomyxoviridae;Influenza A virus (A/Puerto Rico/8/1934(H1N1)) segment 1- NC_002023.1
+Orthomyxoviridae;Influenza A virus (A/Shanghai/02/2013(H7N9)) segment 2- NC_026423.1
+Orthomyxoviridae;Influenza A virus (A/Shanghai/02/2013(H7N9)) segment 7- NC_026427.1
+Orthomyxoviridae;Influenza A virus (A/Shanghai/02/2013(H7N9)) segment 3- NC_026424.1
+Orthomyxoviridae;Influenza A virus (A/Shanghai/02/2013(H7N9)) segment 8- NC_026428.1
+Orthomyxoviridae;Influenza A virus (A/Shanghai/02/2013(H7N9)) segment 4- NC_026425.1
+Orthomyxoviridae;Influenza A virus (A/Shanghai/02/2013(H7N9)) segment 1- NC_026422.1
+Orthomyxoviridae;Influenza A virus (A/Shanghai/02/2013(H7N9)) segment 5- NC_026426.1
+Orthomyxoviridae;Influenza A virus (A/Shanghai/02/2013(H7N9)) segment 6- NC_026429.1
+Orthomyxoviridae;Influenza A virus (A/goose/Guangdong/1/1996(H5N1)) segment 6- NC_007361.1
+Orthomyxoviridae;Influenza A virus (A/goose/Guangdong/1/1996(H5N1)) polymerase PA- NC_007359.1
+Orthomyxoviridae;Influenza A virus (A/goose/Guangdong/1/1996(H5N1)) segment 7- NC_007363.1
+Orthomyxoviridae;Influenza A virus (A/goose/Guangdong/1/1996(H5N1)) segment 8- NC_007364.1
+Orthomyxoviridae;Influenza A virus (A/goose/Guangdong/1/1996(H5N1)) polymerase PB2- NC_007357.1
+Orthomyxoviridae;Influenza A virus (A/goose/Guangdong/1/1996(H5N1)) polymerase PB1- NC_007358.1
+Orthomyxoviridae;Influenza A virus (A/goose/Guangdong/1/1996(H5N1)) nucleocapsid protein- NC_007360.1
+Orthomyxoviridae;Influenza A virus (A/goose/Guangdong/1/1996(H5N1)) hemagglutinin- NC_007362.1
+Orthomyxoviridae;Influenzavirus B;Influenza B virus- NC_002206.1
+Orthomyxoviridae;Influenzavirus B;Influenza B virus- NC_002209.1
+Orthomyxoviridae;Influenzavirus B;Influenza B virus- NC_002211.1
+Orthomyxoviridae;Influenzavirus B;Influenza B virus- NC_002207.1
+Orthomyxoviridae;Influenzavirus B;Influenza B virus- NC_002210.1
+Orthomyxoviridae;Influenzavirus B;Influenza B virus- NC_002204.1
+Orthomyxoviridae;Influenzavirus B;Influenza B virus- NC_002205.1
+Orthomyxoviridae;Influenzavirus B;Influenza B virus- NC_002208.1
+Orthomyxoviridae;Influenzavirus C;Influenza C virus- NC_006306.2
+Orthomyxoviridae;Influenzavirus C;Influenza C virus- NC_006307.1
+Orthomyxoviridae;Influenzavirus C;Influenza C virus- NC_006310.1
+Orthomyxoviridae;Influenzavirus C;Influenza C virus- NC_006309.1
+Orthomyxoviridae;Influenzavirus C;Influenza C virus- NC_006308.1
+Orthomyxoviridae;Influenzavirus C;Influenza C virus- NC_006311.1
+Orthomyxoviridae;Influenzavirus C;Influenza C virus- NC_006312.1
+Arenaviridae;Mammarenavirus;Ippy mammarenavirus- NC_007905.1
+Arenaviridae;Mammarenavirus;Ippy mammarenavirus- NC_007906.1
+Rhabdoviridae;Lyssavirus;Irkut virus- NC_020809.1
+Paramyxoviridae;Other;J-virus- NC_007454.1
+Polyomaviridae;Polyomavirus;JC polyomavirus- NC_001699.1
+Flaviviridae;Flavivirus;Japanese encephalitis virus- NC_001437.1
+Arenaviridae;Mammarenavirus;Junin mammarenavirus- NC_005080.1
+Arenaviridae;Mammarenavirus;Junin mammarenavirus- NC_005081.1
+Polyomaviridae;Polyomavirus;KI polyomavirus- NC_009238.1
+Reoviridae;Seadornavirus;Kadipiro virus- NC_004199.1
+Reoviridae;Seadornavirus;Kadipiro virus- NC_004214.1
+Reoviridae;Seadornavirus;Kadipiro virus- NC_004215.1
+Reoviridae;Seadornavirus;Kadipiro virus- NC_004216.1
+Reoviridae;Seadornavirus;Kadipiro virus- NC_004208.1
+Reoviridae;Seadornavirus;Kadipiro virus- NC_004207.1
+Reoviridae;Seadornavirus;Kadipiro virus- NC_004205.1
+Reoviridae;Seadornavirus;Kadipiro virus- NC_004209.1
+Reoviridae;Seadornavirus;Kadipiro virus- NC_004213.1
+Reoviridae;Seadornavirus;Kadipiro virus- NC_004212.1
+Reoviridae;Seadornavirus;Kadipiro virus- NC_004206.1
+Reoviridae;Seadornavirus;Kadipiro virus- NC_004210.1
+Flaviviridae;Flavivirus;Kamiti River virus- NC_005064.1
+Flaviviridae;Flavivirus;Royal Farm virus- NC_006947.1
+Flaviviridae;Flavivirus;Kedougou virus- NC_012533.1
+Rhabdoviridae;Lyssavirus;Khujand virus- NC_025385.1
+Flaviviridae;Flavivirus;Kokobera virus- NC_009029.2
+Bunyaviridae;Orthobunyavirus;California encephalitis virus- NC_004110.1
+Bunyaviridae;Orthobunyavirus;California encephalitis virus- NC_004109.1
+Bunyaviridae;Orthobunyavirus;California encephalitis virus- NC_004108.1
+Rhabdoviridae;Lyssavirus;Lagos bat virus- NC_020807.1
+Flaviviridae;Flavivirus;Langat virus- NC_003690.1
+Arenaviridae;Mammarenavirus;Lassa mammarenavirus- NC_004297.1
+Arenaviridae;Mammarenavirus;Lassa mammarenavirus- NC_004296.1
+Arenaviridae;Mammarenavirus;Latino mammarenavirus- NC_010760.1
+Arenaviridae;Mammarenavirus;Latino mammarenavirus- NC_010758.1
+Bunyaviridae;Nairovirus;Leopards Hill virus- NC_025831.1
+Bunyaviridae;Nairovirus;Leopards Hill virus- NC_025833.1
+Bunyaviridae;Nairovirus;Leopards Hill virus- NC_025832.1
+Reoviridae;Seadornavirus;Liao ning virus- NC_007739.1
+Reoviridae;Seadornavirus;Liao ning virus- NC_007744.1
+Reoviridae;Seadornavirus;Liao ning virus- NC_007743.1
+Reoviridae;Seadornavirus;Liao ning virus- NC_007742.1
+Reoviridae;Seadornavirus;Liao ning virus- NC_007741.1
+Reoviridae;Seadornavirus;Liao ning virus- NC_007740.1
+Reoviridae;Seadornavirus;Liao ning virus- NC_007738.1
+Reoviridae;Seadornavirus;Liao ning virus- NC_007737.1
+Reoviridae;Seadornavirus;Liao ning virus- NC_007747.1
+Reoviridae;Seadornavirus;Liao ning virus- NC_007746.1
+Reoviridae;Seadornavirus;Liao ning virus- NC_007745.1
+Reoviridae;Seadornavirus;Liao ning virus- NC_007736.1
+Filoviridae;Cuevavirus;Lloviu cuevavirus- NC_016144.1
+Flaviviridae;Flavivirus;Louping ill virus- NC_001809.1
+Arenaviridae;Mammarenavirus;Lujo mammarenavirus- NC_012776.1
+Arenaviridae;Mammarenavirus;Lujo mammarenavirus- NC_012777.1
+Arenaviridae;Mammarenavirus;Luna mammarenavirus- NC_016153.1
+Arenaviridae;Mammarenavirus;Luna mammarenavirus- NC_016152.1
+Arenaviridae;Arenavirus;Lunk virus NKS-1- NC_018710.1
+Arenaviridae;Arenavirus;Lunk virus NKS-1- NC_018711.1
+Arenaviridae;Mammarenavirus;Lymphocytic choriomeningitis mammarenavirus- NC_004294.1
+Arenaviridae;Mammarenavirus;Lymphocytic choriomeningitis mammarenavirus- NC_004291.1
+Rhabdoviridae;Lyssavirus;Lyssavirus Ozernoe- NC_025408.1
+Unclassified;Unclassified;MSSI2.225 virus- NC_024691.1
+Papillomaviridae;Betapapillomavirus;Betapapillomavirus 6- NC_015691.1
+Arenaviridae;Mammarenavirus;Machupo mammarenavirus- NC_005078.1
+Arenaviridae;Mammarenavirus;Machupo mammarenavirus- NC_005079.1
+Astroviridae;Mamastrovirus;Mamastrovirus 1- NC_001943.1
+Paramyxoviridae;Rubulavirus;Mapuera virus- NC_009489.1
+Filoviridae;Marburgvirus;Marburg marburgvirus- NC_024781.1
+Filoviridae;Marburgvirus;Marburg marburgvirus- NC_001608.3
+Togaviridae;Alphavirus;Mayaro virus- NC_003417.1
+Paramyxoviridae;Morbillivirus;Measles virus- NC_001498.1
+Paramyxoviridae;Rubulavirus;Menangle virus- NC_007620.1
+Polyomaviridae;Polyomavirus;Merkel cell polyomavirus- NC_010277.2
+Arenaviridae;Mammarenavirus;Mobala mammarenavirus- NC_007903.1
+Arenaviridae;Mammarenavirus;Mobala mammarenavirus- NC_007904.1
+Flaviviridae;Flavivirus;Modoc virus- NC_003635.1
+Paramyxoviridae;Henipavirus;Mojiang virus- NC_025352.1
+Rhabdoviridae;Lyssavirus;Mokola virus- NC_006429.1
+Flaviviridae;Flavivirus;Montana myotis leukoencephalitis virus- NC_004119.1
+Arenaviridae;Arenavirus;Mopeia Lassa virus reassortant 29- NC_006572.1
+Arenaviridae;Arenavirus;Mopeia Lassa virus reassortant 29- NC_006573.1
+Arenaviridae;Mammarenavirus;Mopeia mammarenavirus- NC_006575.1
+Arenaviridae;Mammarenavirus;Mopeia mammarenavirus- NC_006574.1
+Arenaviridae;Arenavirus;Morogoro virus- NC_013058.1
+Arenaviridae;Arenavirus;Morogoro virus- NC_013057.1
+Flaviviridae;Flavivirus;Quang Binh virus- NC_021069.1
+Paramyxoviridae;Other;Mossman virus- NC_005339.1
+Paramyxoviridae;Rubulavirus;Mumps virus- NC_002200.1
+Flaviviridae;Flavivirus;Murray Valley encephalitis virus- NC_000943.1
+Paramyxoviridae;Other;Nariva virus- NC_017937.1
+Paramyxoviridae;Avulavirus;Newcastle disease virus- NC_002617.1
+Paramyxoviridae;Henipavirus;Nipah virus- NC_002728.1
+Caliciviridae;Norovirus;Norwalk virus- NC_001959.2
+Flaviviridae;Hepacivirus;Norway rat hepacivirus 1- NC_025672.1
+Flaviviridae;Hepacivirus;Norway rat hepacivirus 2- NC_025673.1
+Flaviviridae;Flavivirus;Ntaya virus- NC_018705.3
+Togaviridae;Alphavirus;O'nyong-nyong virus- NC_001512.1
+Arenaviridae;Mammarenavirus;Oliveros mammarenavirus- NC_010250.1
+Arenaviridae;Mammarenavirus;Oliveros mammarenavirus- NC_010248.1
+Flaviviridae;Flavivirus;Omsk hemorrhagic fever virus- NC_005062.1
+Bunyaviridae;Orthobunyavirus;Oropouche virus- NC_005777.1
+Bunyaviridae;Orthobunyavirus;Oropouche virus- NC_005775.1
+Bunyaviridae;Orthobunyavirus;Oropouche virus- NC_005776.1
+Paramyxoviridae;Rubulavirus;Parainfluenza virus 5- NC_006430.1
+Arenaviridae;Mammarenavirus;Parana mammarenavirus- NC_010761.1
+Arenaviridae;Mammarenavirus;Parana mammarenavirus- NC_010756.1
+Paramyxoviridae;Morbillivirus;Peste-des-petits-ruminants virus- NC_006383.2
+Arenaviridae;Mammarenavirus;Pichinde mammarenavirus- NC_006447.1
+Arenaviridae;Mammarenavirus;Pichinde mammarenavirus- NC_006439.1
+Arenaviridae;Mammarenavirus;Pirital mammarenavirus- NC_005894.1
+Arenaviridae;Mammarenavirus;Pirital mammarenavirus- NC_005897.1
+Paramyxoviridae;Pneumovirus;Murine pneumonia virus- NC_006579.1
+Caliciviridae;Sapovirus;Sapporo virus- NC_000940.1
+Paramyxoviridae;Respirovirus;Porcine parainfluenza virus 1- NC_025402.1
+Paramyxoviridae;Rubulavirus;Porcine rubulavirus- NC_009640.1
+Flaviviridae;Flavivirus;Powassan virus- NC_003687.1
+Bunyaviridae;Phlebovirus;Punta Toro virus- NC_027201.1
+Bunyaviridae;Phlebovirus;Punta Toro virus- NC_027203.1
+Bunyaviridae;Phlebovirus;Punta Toro virus- NC_027202.1
+Bunyaviridae;Hantavirus;Puumala virus- NC_005223.1
+Bunyaviridae;Hantavirus;Puumala virus- NC_005224.1
+Bunyaviridae;Hantavirus;Puumala virus- NC_005225.1
+Flaviviridae;Flavivirus;Quang Binh virus- NC_012671.1
+Rhabdoviridae;Lyssavirus;Rabies virus- NC_001542.1
+Bunyaviridae;Phlebovirus;Razdan virus- NC_022632.1
+Bunyaviridae;Phlebovirus;Razdan virus- NC_022630.1
+Bunyaviridae;Phlebovirus;Razdan virus- NC_022631.1
+Bornaviridae;Other;Reptile bornavirus 1- NC_024778.1
+Paramyxoviridae;Pneumovirus;Respiratory syncytial virus- NC_001803.1
+Filoviridae;Ebolavirus;Reston ebolavirus- NC_004161.1
+Picornaviridae;Enterovirus;Rhinovirus A- NC_001617.1
+Bunyaviridae;Phlebovirus;Rift Valley fever virus- NC_014395.1
+Bunyaviridae;Phlebovirus;Rift Valley fever virus- NC_014396.1
+Bunyaviridae;Phlebovirus;Rift Valley fever virus- NC_014397.1
+Paramyxoviridae;Morbillivirus;Rinderpest virus- NC_006296.2
+Flaviviridae;Flavivirus;Rio Bravo virus- NC_003675.1
+Anelloviridae;Other;Rodent Torque teno virus 2- NC_025966.1
+Flaviviridae;Hepacivirus;Rodent hepacivirus- NC_021153.1
+Togaviridae;Alphavirus;Ross River virus- NC_001544.1
+Reoviridae;Rotavirus;Rotavirus A- NC_011503.2
+Reoviridae;Rotavirus;Rotavirus A- NC_011502.2
+Reoviridae;Rotavirus;Rotavirus A- NC_011508.2
+Reoviridae;Rotavirus;Rotavirus A- NC_011500.2
+Reoviridae;Rotavirus;Rotavirus A- NC_011510.2
+Reoviridae;Rotavirus;Rotavirus A- NC_011505.2
+Reoviridae;Rotavirus;Rotavirus A- NC_011506.2
+Reoviridae;Rotavirus;Rotavirus A- NC_011504.2
+Reoviridae;Rotavirus;Rotavirus A- NC_011507.2
+Reoviridae;Rotavirus;Rotavirus A- NC_011501.2
+Reoviridae;Rotavirus;Rotavirus A- NC_011509.2
+Reoviridae;Rotavirus;Rotavirus C- NC_007543.1
+Reoviridae;Rotavirus;Rotavirus C- NC_007546.1
+Reoviridae;Rotavirus;Rotavirus C- NC_007571.1
+Reoviridae;Rotavirus;Rotavirus C- NC_007573.1
+Reoviridae;Rotavirus;Rotavirus C- NC_007569.1
+Reoviridae;Rotavirus;Rotavirus C- NC_007570.1
+Reoviridae;Rotavirus;Rotavirus C- NC_007544.1
+Reoviridae;Rotavirus;Rotavirus C- NC_007572.1
+Reoviridae;Rotavirus;Rotavirus C- NC_007574.1
+Reoviridae;Rotavirus;Rotavirus C- NC_007545.1
+Reoviridae;Rotavirus;Rotavirus C- NC_007547.1
+Reoviridae;Rotavirus;Rotavirus F- NC_021633.1
+Reoviridae;Rotavirus;Rotavirus F- NC_021635.1
+Reoviridae;Rotavirus;Rotavirus F- NC_021628.1
+Reoviridae;Rotavirus;Rotavirus F- NC_021632.1
+Reoviridae;Rotavirus;Rotavirus F- NC_021630.1
+Reoviridae;Rotavirus;Rotavirus F- NC_021627.1
+Reoviridae;Rotavirus;Rotavirus F- NC_021631.1
+Reoviridae;Rotavirus;Rotavirus F- NC_021626.1
+Reoviridae;Rotavirus;Rotavirus F- NC_021634.1
+Reoviridae;Rotavirus;Rotavirus F- NC_021629.1
+Reoviridae;Rotavirus;Rotavirus F- NC_021625.1
+Reoviridae;Rotavirus;Rotavirus G- NC_021581.1
+Reoviridae;Rotavirus;Rotavirus G- NC_021584.1
+Reoviridae;Rotavirus;Rotavirus G- NC_021582.1
+Reoviridae;Rotavirus;Rotavirus G- NC_021589.1
+Reoviridae;Rotavirus;Rotavirus G- NC_021587.1
+Reoviridae;Rotavirus;Rotavirus G- NC_021588.1
+Reoviridae;Rotavirus;Rotavirus G- NC_021586.1
+Reoviridae;Rotavirus;Rotavirus G- NC_021590.1
+Reoviridae;Rotavirus;Rotavirus G- NC_021585.1
+Reoviridae;Rotavirus;Rotavirus G- NC_021580.1
+Reoviridae;Rotavirus;Rotavirus G- NC_021583.1
+Reoviridae;Rotavirus;Rotavirus I- NC_026822.1
+Reoviridae;Rotavirus;Rotavirus I- NC_026825.1
+Reoviridae;Rotavirus;Rotavirus I- NC_026821.1
+Reoviridae;Rotavirus;Rotavirus I- NC_026820.1
+Reoviridae;Rotavirus;Rotavirus I- NC_026824.1
+Reoviridae;Rotavirus;Rotavirus I- NC_026823.1
+Reoviridae;Rotavirus;Rotavirus I- NC_026826.1
+Reoviridae;Rotavirus;Rotavirus I- NC_026830.1
+Reoviridae;Rotavirus;Rotavirus I- NC_026827.1
+Reoviridae;Rotavirus;Rotavirus I- NC_026829.1
+Reoviridae;Rotavirus;Rotavirus I- NC_026828.1
+Togaviridae;Rubivirus;Rubella virus- NC_001545.2
+Coronaviridae;Betacoronavirus;Severe acute respiratory syndrome-related coronavirus- NC_004718.3
+Bunyaviridae;Phlebovirus;Severe fever with thrombocytopenia syndrome virus- NC_018137.1
+Bunyaviridae;Phlebovirus;Severe fever with thrombocytopenia syndrome virus- NC_018138.1
+Bunyaviridae;Phlebovirus;Severe fever with thrombocytopenia syndrome virus- NC_018136.1
+Arenaviridae;Mammarenavirus;Sabia mammarenavirus- NC_006317.1
+Arenaviridae;Mammarenavirus;Sabia mammarenavirus- NC_006313.1
+Paramyxoviridae;Other;Salem virus- NC_025386.1
+Bunyaviridae;Phlebovirus;Sandfly fever Naples virus- NC_006318.1
+Bunyaviridae;Phlebovirus;Sandfly fever Naples virus- NC_006319.1
+Bunyaviridae;Phlebovirus;Sandfly fever Naples virus- NC_006320.1
+Bunyaviridae;Phlebovirus;Sandfly fever Sicilian virus- NC_015412.1
+Bunyaviridae;Phlebovirus;Sandfly fever Sicilian virus- NC_015411.1
+Bunyaviridae;Phlebovirus;Sandfly fever Sicilian virus- NC_015413.1
+Caliciviridae;Sapovirus;Sapporo virus- NC_006554.1
+Caliciviridae;Sapovirus;Sapporo virus- NC_006269.1
+Caliciviridae;Sapovirus;Sapporo virus- NC_027026.1
+Caliciviridae;Sapovirus;Sapporo virus- NC_010624.1
+Bunyaviridae;Orthobunyavirus;Sathuperi virus- NC_018466.1
+Bunyaviridae;Orthobunyavirus;Sathuperi virus- NC_018462.1
+Bunyaviridae;Orthobunyavirus;Sathuperi virus- NC_018461.1
+Anelloviridae;Other;Seal anellovirus 2- NC_024891.1
+Anelloviridae;Other;Seal anellovirus 3- NC_024890.1
+Anelloviridae;Other;Seal anellovirus TFFN/USA/2006- NC_015212.1
+Paramyxoviridae;Respirovirus;Sendai virus- NC_001552.1
+Bunyaviridae;Hantavirus;Seoul virus- NC_005236.1
+Bunyaviridae;Hantavirus;Seoul virus- NC_005237.1
+Bunyaviridae;Hantavirus;Seoul virus- NC_005238.1
+Flaviviridae;Flavivirus;Sepik virus- NC_008719.1
+Bunyaviridae;Orthobunyavirus;Shamonda virus- NC_018463.1
+Bunyaviridae;Orthobunyavirus;Shamonda virus- NC_018467.1
+Bunyaviridae;Orthobunyavirus;Shamonda virus- NC_018464.1
+Rhabdoviridae;Lyssavirus;Shimoni bat virus- NC_025365.1
+Bunyaviridae;Orthobunyavirus;Simbu virus- NC_018476.1
+Bunyaviridae;Orthobunyavirus;Simbu virus- NC_018477.1
+Bunyaviridae;Orthobunyavirus;Simbu virus- NC_018478.1
+Anelloviridae;Alphatorquevirus;Simian torque teno virus 30- NC_026663.1
+Anelloviridae;Alphatorquevirus;Simian torque teno virus 31- NC_026662.1
+Anelloviridae;Alphatorquevirus;Simian torque teno virus 32- NC_026664.1
+Anelloviridae;Alphatorquevirus;Simian torque teno virus 33- NC_026764.1
+Anelloviridae;Alphatorquevirus;Simian torque teno virus 34- NC_026765.1
+Polyomaviridae;Polyomavirus;Simian virus 40- NC_001669.1
+Paramyxoviridae;Rubulavirus;Simian virus 41- NC_006428.1
+Bunyaviridae;Hantavirus;Sin Nombre virus- NC_005216.1
+Bunyaviridae;Hantavirus;Sin Nombre virus- NC_005215.1
+Bunyaviridae;Hantavirus;Sin Nombre virus- NC_005217.1
+Anelloviridae;Other;Small anellovirus- NC_007013.1
+Anelloviridae;Other;Small anellovirus- NC_007014.1
+Paramyxoviridae;Rubulavirus;Sosuga virus- NC_025343.1
+Flaviviridae;Flavivirus;St. Louis encephalitis virus- NC_007580.2
+Filoviridae;Ebolavirus;Sudan ebolavirus- NC_006432.1
+Paramyxoviridae;Other;Sunshine virus- NC_025345.1
+Anelloviridae;Other;TTV-like mini virus- NC_020498.1
+Arenaviridae;Mammarenavirus;Tacaribe mammarenavirus- NC_004292.1
+Arenaviridae;Mammarenavirus;Tacaribe mammarenavirus- NC_004293.1
+Filoviridae;Ebolavirus;Tai Forest ebolavirus- NC_014372.1
+Paramyxoviridae;Other;Tailam virus- NC_025355.1
+Flaviviridae;Flavivirus;Tamana bat virus- NC_003996.1
+Arenaviridae;Mammarenavirus;Tamiami mammarenavirus- NC_010701.1
+Arenaviridae;Mammarenavirus;Tamiami mammarenavirus- NC_010702.1
+Flaviviridae;Flavivirus;Tembusu virus- NC_015843.2
+Orthomyxoviridae;Thogotovirus;Thogoto virus- NC_006507.1
+Orthomyxoviridae;Thogotovirus;Thogoto virus- NC_006506.1
+Orthomyxoviridae;Thogotovirus;Thogoto virus- NC_006504.1
+Orthomyxoviridae;Thogotovirus;Thogoto virus- NC_006496.1
+Orthomyxoviridae;Thogotovirus;Thogoto virus- NC_006508.1
+Orthomyxoviridae;Thogotovirus;Thogoto virus- NC_006495.1
+Bunyaviridae;Hantavirus;Thottapalayam virus- NC_010707.1
+Bunyaviridae;Hantavirus;Thottapalayam virus- NC_010708.1
+Bunyaviridae;Hantavirus;Thottapalayam virus- NC_010704.1
+Flaviviridae;Flavivirus;Tick-borne encephalitis virus- NC_001672.1
+Paramyxoviridae;Rubulavirus;Tioman virus- NC_004074.1
+Anelloviridae;Thetatorquevirus;Torque teno canis virus- NC_014071.1
+Anelloviridae;Zetatorquevirus;Torque teno douroucouli virus- NC_014087.1
+Anelloviridae;Etatorquevirus;Torque teno felis virus- NC_014072.1
+Anelloviridae;Gammatorquevirus;Torque teno midi virus 1- NC_009225.1
+Anelloviridae;Gammatorquevirus;Torque teno midi virus 2- NC_014093.1
+Anelloviridae;Betatorquevirus;Torque teno mini virus 1- NC_014097.1
+Anelloviridae;Betatorquevirus;Torque teno mini virus 2- NC_014086.1
+Anelloviridae;Betatorquevirus;Torque teno mini virus 3- NC_014088.1
+Anelloviridae;Betatorquevirus;Torque teno mini virus 4- NC_014090.1
+Anelloviridae;Betatorquevirus;Torque teno mini virus 5- NC_014089.1
+Anelloviridae;Betatorquevirus;Torque teno mini virus 6- NC_014095.1
+Anelloviridae;Betatorquevirus;Torque teno mini virus 7- NC_014082.1
+Anelloviridae;Betatorquevirus;Torque teno mini virus 8- NC_014068.1
+Anelloviridae;Betatorquevirus;Torque teno mini virus 9- NC_002195.1
+Anelloviridae;Betatorquevirus;Torque teno mini virus ALA22- NC_025726.1
+Anelloviridae;Betatorquevirus;Torque teno mini virus ALH8- NC_025727.1
+Anelloviridae;Iotatorquevirus;Torque teno sus virus 1a- NC_014070.1
+Anelloviridae;Iotatorquevirus;Torque teno sus virus 1b- NC_027059.1
+Anelloviridae;Kappatorquevirus;Torque teno sus virus k2- NC_014092.2
+Anelloviridae;Epsilontorquevirus;Torque teno tamarin virus- NC_014085.1
+Anelloviridae;Other;Torque teno virus- NC_015783.1
+Anelloviridae;Alphatorquevirus;Torque teno virus 1- NC_002076.2
+Anelloviridae;Alphatorquevirus;Torque teno virus 10- NC_014076.1
+Anelloviridae;Alphatorquevirus;Torque teno virus 12- NC_014075.1
+Anelloviridae;Alphatorquevirus;Torque teno virus 14- NC_014077.1
+Anelloviridae;Alphatorquevirus;Torque teno virus 15- NC_014096.1
+Anelloviridae;Alphatorquevirus;Torque teno virus 16- NC_014091.1
+Anelloviridae;Alphatorquevirus;Torque teno virus 19- NC_014078.1
+Anelloviridae;Alphatorquevirus;Torque teno virus 2- NC_014480.2
+Anelloviridae;Alphatorquevirus;Torque teno virus 25- NC_014083.1
+Anelloviridae;Alphatorquevirus;Torque teno virus 26- NC_014079.1
+Anelloviridae;Alphatorquevirus;Torque teno virus 27- NC_014074.1
+Anelloviridae;Alphatorquevirus;Torque teno virus 28- NC_014073.1
+Anelloviridae;Alphatorquevirus;Torque teno virus 3- NC_014081.1
+Anelloviridae;Alphatorquevirus;Torque teno virus 4- NC_014069.1
+Anelloviridae;Alphatorquevirus;Torque teno virus 6- NC_014094.1
+Anelloviridae;Alphatorquevirus;Torque teno virus 7- NC_014080.1
+Anelloviridae;Alphatorquevirus;Torque teno virus 8- NC_014084.1
+Anelloviridae;Lambdatorquevirus;Torque teno zalophus virus 1- NC_012126.1
+Paramyxoviridae;Rubulavirus;Tuhoko virus 1- NC_025410.1
+Paramyxoviridae;Rubulavirus;Tuhoko virus 2- NC_025348.1
+Paramyxoviridae;Rubulavirus;Tuhoko virus 3- NC_025350.1
+Bunyaviridae;Hantavirus;Tula virus- NC_005226.1
+Bunyaviridae;Hantavirus;Tula virus- NC_005228.1
+Bunyaviridae;Hantavirus;Tula virus- NC_005227.2
+Paramyxoviridae;Other;Tupaia paramyxovirus- NC_002199.1
+Flaviviridae;Flavivirus;Usutu virus- NC_006551.1
+Bunyaviridae;Phlebovirus;Uukuniemi virus- NC_005221.1
+Bunyaviridae;Phlebovirus;Uukuniemi virus- NC_005214.1
+Bunyaviridae;Phlebovirus;Uukuniemi virus- NC_005220.1
+Poxviridae;Orthopoxvirus;Vaccinia virus- NC_006998.1
+Poxviridae;Orthopoxvirus;Variola virus- NC_001611.1
+Rhabdoviridae;Vesiculovirus;Vesicular stomatitis Indiana virus- NC_001560.1
+Polyomaviridae;Polyomavirus;WU Polyomavirus- NC_009539.1
+Flaviviridae;Flavivirus;Wesselsbron virus- NC_012735.1
+Rhabdoviridae;Lyssavirus;West Caucasian bat virus- NC_025377.1
+Flaviviridae;Flavivirus;West Nile virus- NC_009942.1
+Flaviviridae;Flavivirus;West Nile virus- NC_001563.2
+Flaviviridae;Flavivirus;West Nile virus- NC_027013.1
+Arenaviridae;Mammarenavirus;Whitewater Arroyo mammarenavirus- NC_010703.1
+Arenaviridae;Mammarenavirus;Whitewater Arroyo mammarenavirus- NC_010700.1
+Flaviviridae;Flavivirus;Yellow fever virus- NC_002031.1
+Flaviviridae;Flavivirus;Yokose virus- NC_005039.1
+Rhabdoviridae;Vesiculovirus;Yug Bogdanovac virus- NC_025378.1
+Filoviridae;Ebolavirus;Zaire ebolavirus- NC_002549.1
+Flaviviridae;Flavivirus;Zika virus- NC_012532.1
+Totiviridae;Totivirus;Zygosaccharomyces bailii virus Z- NC_003874.1
+Coronaviridae;Betacoronavirus;Severe acute respiratory syndrome coronavirus 2 COVID19- NC_045512.2
