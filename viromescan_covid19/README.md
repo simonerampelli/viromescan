@@ -1,6 +1,6 @@
 # viromescan_covid19 
 This is the module implemented by the ViromeScan Researchers for identified viral sequences of SARS-CoV-2 in metagenomic data.
-Simply copy and paste the contents of this folder in your viromescan folder (pay attention to put all the provided materials in the correspondent location of your viromescan folder without substituting the original contents)
+Simply copy and paste the contents of this folder in your viromescan folder (pay attention to put the provided materials in the correspondent location of your viromescan folder without substituting the original contents)
 
 ## Instruction after download:
 ```
