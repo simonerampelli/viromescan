@@ -11,8 +11,10 @@ Please refer to [this publication](https://doi.org/10.1186/s12864-016-2446-3) fo
 SPACE REQUIREMENTS : ViromeScan requires about 45 GB of free space to work on your device
 
 ### FIRST STEPS
-Install conda
-Download the viromescan2.tar.gz folder and the viromescan2.yml file 
+Install conda and clone the git folder
+```
+git clone https://github.com/simonerampelli/viromescan.git
+```
 
 ### 1) CREATE CONDA ENVIRONMENT FROM SOURCE
 ```
