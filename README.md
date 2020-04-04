@@ -23,7 +23,7 @@ conda env create -f viromescan2.yml -p /your/conda/path/envs/viromescan
 ```
 
 ### 2) DOWNLOAD AND UNTAR VIROMESCAN
-Download the native versione of ViromeScan and its database from [this site](https://sourceforge.net/projects/viromescan/files/)
+Download the native versione of ViromeScan and its database from [this site](https://sourceforge.net/projects/viromescan/files/).
 Then unzip and untar the folder.
 ```
 wget https://sourceforge.net/projects/viromescan/files/viromescan.tar.gz 
