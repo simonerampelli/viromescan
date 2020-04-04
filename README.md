@@ -19,34 +19,72 @@ Download the viromescan2.tar.gz folder and the viromescan2.yml file
 conda env create -f viromescan2.yml -p /your/conda/path/envs/viromescan
 ```
 
-### 2) UNTAR VIROMESCAN
+### 2) DOWNLOAD AND UNTAR VIROMESCAN
+Download the native versione of ViromeScan and its database from [this site](https://sourceforge.net/projects/viromescan/files/)
+Then unzip and untar the folder.
 ```
-tar -zxvf viromescan2.tar.gz
+tar -zxvf viromescan.tar.gz
 ```
 
-### 2) MOVE THE VIROMESCAN FOLDER IN THE CONDA DIRECTORY
+### 3) SUBSTITUTE THE NEW VERSION OF bmtagger.sh PROVIDED HERE IN GITHUB TO THE OLD VERSION WITHIN THE VIROMESCAN FOLDER
+```
+rm -fr viromescan/tools/bmtagger.sh
+mv bmtagger.sh viromescan/tools/
+```
+
+### 4) THE DATABASES
+```
+cd $viromescan_path/viromescan/database
+
+gzip -d Bacteria_custom/*
+gzip -d  bowtie2/*
+gzip -d hg19/*
+
+cd hg19/
+```
+Now you need to create the indexes database for hg19.
+*N.B. Bmtagger scripts (bmfilter, srprism) require about 8.5Gb RAM memory and three times as much hard-disk space for index data.*
+
+-  Make indexes for bmfilter. 
+```
+bmtool -d hg19reference.fa -o hg19reference.bitmask -A 0 -w 18
+```
+- Make index for srprism
+```
+srprism mkindex -i hg19reference.fa -o hg19reference.srprism -M 7168
+```
+- Make blastdb for blast
+```
+makeblastdb -in hg19reference.fa -dbtype nucl
+```
+
+### 5) MOVE THE VIROMESCAN FOLDER IN THE CONDA DIRECTORY
 ```
 mv viromescan /your/conda/path/envs/viromescan
 ```
 
-### 5) CREATE A VIRTUAL LINK FOR THE viromescan.sh AND viromescan_covid19.sh SCRIPT
+### 6) OPTIONAL: INSTALL THE COVID19 MODULE
+Follow the instructions contained within the viromescan_covid19 folder.
+
+
+### 7) CREATE A VIRTUAL LINK FOR THE viromescan.sh AND viromescan_covid19.sh SCRIPT
 ```
 ln -s /your/conda/path/envs/viromescan/viromescan/viromescan.sh  /your/conda/path/envs/viromescan/bin/viromescan
 ln -s /your/conda/path/envs/viromescan/viromescan/viromescan_covid19.sh  /your/conda/path/envs/viromescan/bin/viromescan_covid19
 ```
 
-### 6) ACTIVATE AND DEACTIVATE THE VIROMESCAN ENVIRONMENT
+### 8) ACTIVATE AND DEACTIVATE THE VIROMESCAN ENVIRONMENT
 ```
 conda activate viromescan
 conda deactivate viromescan
 ```
 
-### 7) USAGE AND HELP 
+### 9) USAGE AND HELP 
 
 For usage and help information please digit "viromescan" or "viromescan_covid19" without any option on your command line
 
 
-### 8) EXAMPLES OF USAGE
+### 10) EXAMPLES OF USAGE
 
 A) Computing the analysis on a single-end .fastq file for the human DNA viruses
 ```
