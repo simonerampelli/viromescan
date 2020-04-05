@@ -45,6 +45,7 @@ unzip bowtie2.zip
 cd -
 mv viromescan2/viromescan_covid19/database/bowtie2/* viromescan/database/bowtie2/
 mv viromescan2/viromescan_covid19/var/* viromescan/var/
+chmod 777 viromescan2/viromescan_covid19/viromescan_covid19.sh
 mv viromescan2/viromescan_covid19/viromescan_covid19.sh viromescan/
 rm -fr viromescan2
 ```
