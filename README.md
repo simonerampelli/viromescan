@@ -19,7 +19,8 @@ mv viromescan viromescan2
 
 ### 1) CREATE CONDA ENVIRONMENT FROM SOURCE
 ```
-conda env create -f viromescan2.yml -p /your/conda/path/envs/viromescan
+conda env create -f viromescan2/viromescan2.yml -p /your/conda/path/envs/viromescan
+conda activate viromescan
 ```
 
 ### 2) DOWNLOAD AND UNTAR VIROMESCAN
@@ -36,16 +37,24 @@ rm -fr viromescan/tools/bmtagger.sh
 mv viromescan2/bmtagger.sh viromescan/tools/
 ```
 
-### 6) OPTIONAL: INSTALL THE COVID19 MODULE
-Follow the instructions contained within the viromescan_covid19 folder.
+### 6) INSTALL THE COVID19 MODULE
+```
+cd viromescan2/viromescan_covid19/database/
+unzip bowtie2.zip
+cd -
+mv viromescan2/viromescan_covid19/database/bowtie2/* viromescan/database/bowtie2/
+mv viromescan2/viromescan_covid19/var/* viromescan/var/
+mv viromescan2/viromescan_covid19/viromescan_covid19.sh viromescan/
+rm -fr viromescan2
+```
 
 ### 4) THE DATABASES
 ```
-cd $viromescan_path/viromescan/database
+cd viromescan/database
 
-gzip -d Bacteria_custom/*
-gzip -d  bowtie2/*
-gzip -d hg19/*
+gzip -d Bacteria_custom/*.gz
+gzip -d  bowtie2/*.gz
+gzip -d hg19/*.gz
 
 cd hg19/
 ```
@@ -67,6 +76,7 @@ makeblastdb -in hg19reference.fa -dbtype nucl
 
 ### 5) MOVE THE VIROMESCAN FOLDER IN THE CONDA DIRECTORY
 ```
+cd ../../..
 mv viromescan /your/conda/path/envs/viromescan
 ```
 
