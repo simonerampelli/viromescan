@@ -33,8 +33,11 @@ tar -zxvf viromescan.tar.gz
 ### 3) SUBSTITUTE THE NEW VERSION OF bmtagger.sh PROVIDED HERE IN GITHUB TO THE OLD VERSION WITHIN THE VIROMESCAN FOLDER
 ```
 rm -fr viromescan/tools/bmtagger.sh
-mv bmtagger.sh viromescan/tools/
+mv viromescan2/bmtagger.sh viromescan/tools/
 ```
+
+### 6) OPTIONAL: INSTALL THE COVID19 MODULE
+Follow the instructions contained within the viromescan_covid19 folder.
 
 ### 4) THE DATABASES
 ```
@@ -66,10 +69,6 @@ makeblastdb -in hg19reference.fa -dbtype nucl
 ```
 mv viromescan /your/conda/path/envs/viromescan
 ```
-
-### 6) OPTIONAL: INSTALL THE COVID19 MODULE
-Follow the instructions contained within the viromescan_covid19 folder.
-
 
 ### 7) CREATE A VIRTUAL LINK FOR THE viromescan.sh AND viromescan_covid19.sh SCRIPT
 ```
