@@ -7,7 +7,7 @@ Below the easier way for installing Viromescan.
 
 Please refer to [this publication](https://doi.org/10.1186/s12864-016-2446-3) for further information concerning the ViromeScan software.
 
-###Please, note that the COVID19 module is in Beta version. 
+### Please, note that the COVID19 module is in Beta version. 
 
 ## README
 SPACE REQUIREMENTS : ViromeScan requires about 45 GB of free space to work on your device
