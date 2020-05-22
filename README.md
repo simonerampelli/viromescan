@@ -6,7 +6,7 @@ A new module is now included for detection of SARS-CoV-2 virus.
 Below the easier way for installing Viromescan.
 
 Please refer to [this publication](https://doi.org/10.1186/s12864-016-2446-3) for further information concerning the ViromeScan software.
-For specific information concerning the COVID19 module see [this paper](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3557962)
+Please, note that the COVID19 module is in Beta version. 
 
 ## README
 SPACE REQUIREMENTS : ViromeScan requires about 45 GB of free space to work on your device
