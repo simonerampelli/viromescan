@@ -112,5 +112,5 @@ viromescan -p 3 -m /your/conda/path/envs/viromescan -d virus_ALL -1 sample_A_r1.
 ```
 C) Computing the analysis using the COVID19 module for SARS-CoV-2 virus detection
 ```
-viromescan -p 3 -m /your/conda/path/envs/viromescan -1 sample_A_r1.fastq -2 sample_A_r2.fastq -o viromescan_sample_A_covid19
+viromescan_covid19 -p 3 -m /your/conda/path/envs/viromescan -1 sample_A_r1.fastq -2 sample_A_r2.fastq -o viromescan_sample_A_covid19
 ```
